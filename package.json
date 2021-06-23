@@ -1,6 +1,6 @@
 {
   "name": "esbuild-federation-share-scope",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/federation-share-scope.js",
   "types": "dist/federation-share-scope.d.ts",
