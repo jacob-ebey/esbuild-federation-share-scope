@@ -1,0 +1,19 @@
+{
+  "name": "esbuild-federation-share-scope",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/federation-share-scope.js",
+  "types": "dist/federation-share-scope.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^15.12.4",
+    "esbuild": "^0.12.9",
+    "typescript": "^4.3.4"
+  }
+}
