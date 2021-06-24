@@ -1,6 +1,6 @@
 # esbuild-federation-share-scope
 
-Enables federation share scope for interop with Webpack 5 Module Federation containers.
+Enables federation share scope for interop with Webpack 5 Module Federation containers. A full example can be found here: https://github.com/jacob-ebey/esbuild-federation-example.
 
 ## Usage
 
