@@ -4,6 +4,12 @@ Enables federation share scope for interop with Webpack 5 Module Federation cont
 
 ## Usage
 
+Install https://www.npmjs.com/package/esbuild-federation-share-scope
+
+```
+npm i -D esbuild-federation-share-scope
+```
+
 Bundler configuration:
 
 ```js
